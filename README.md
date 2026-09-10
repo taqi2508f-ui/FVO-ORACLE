@@ -55,7 +55,7 @@ FVO combines a custom-built network reconnaissance engine with an AI analysis la
 ## Installation
 
 ```bash
-git clone https://github.com/taqi2508f-ui/<FVO-ORACLE>.git
+git clone https://github.com/taqi2508f-ui/FVO-ORACLE.git
 cd FVO_project
 requirements.bat
 ```
